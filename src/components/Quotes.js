@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from "react";
+import React, {useState} from "react";
 import {Card, Col, Container, Form, Row, Button} from "react-bootstrap";
 
 const Quotes = ({categories}) => {
